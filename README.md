@@ -1,2 +1,4 @@
-# node
-nodeを立ち上げるためのベースレポジトリ
+# practice React + TypeScript
+React + TypeScriptで何か試すためのレポジトリ
+
+## 参考ドキュメント
